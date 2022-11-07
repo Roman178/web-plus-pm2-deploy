@@ -139,6 +139,6 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api('http://api.roman-ismagilov-pm2.nomoredomains.icu');
+  const api = new Api('https://api.roman-ismagilov-pm2.nomoredomains.icu');
 
   export default api;
