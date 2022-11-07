@@ -1,4 +1,4 @@
-require("dotenv").config({ path: "./.env.deploy" });
+require('dotenv').config({ path: './.env.deploy' });
 
 const {
   DEPLOY_USER,
@@ -11,7 +11,7 @@ const {
 module.exports = {
   apps: [
     {
-      name: "mesto-frontend",
+      name: 'mesto-frontend',
     },
   ],
 
